@@ -1,4 +1,4 @@
-.navbar{
+.navbar {
   top: 0;
   position: fixed;
   width: 100%;
@@ -29,19 +29,19 @@
   text-align: justify;
 }
 
-#certification{
+#certification {
   background-color: #def0fc;
 }
 
-.col-md-3 p{
+.col-md-3 p {
   text-align: center;
 }
 
-p a{
+p a {
   text-decoration: none;
   color: #2f54a3;
 }
 
-p a:hover{
+p a:hover {
   color: black;
 }
