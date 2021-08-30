@@ -42,6 +42,33 @@ p a {
   color: #2f54a3;
 }
 
-p a:hover {
+footer {
+  height: 60px;
+  weight: 100%;
+}
+
+footer p {
+  text-align: center;
+  text-decoration: none;
+  padding: 15px;
+}
+
+footer p a {
   color: black;
+}
+
+footer p a:hover {
+  color: white
+}
+
+button {
+  background: #2f54a3;
+  color: white;
+  border: white 1px solid;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+
+button:hover {
+  opacity: 1;
 }
